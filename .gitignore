@@ -8,9 +8,7 @@
 .web-server-pid
 
 # PhpStorm files #
-.idea/inspectionProfiles/
-.idea/vcs.xml
-.idea/dictionaries/
+\.idea/
 
 # Symfony files #
 composer.lock
